@@ -18,7 +18,6 @@ write
 ```c
 ```
 ```
-```
 ```codeset
 {
     "lang": "c"
